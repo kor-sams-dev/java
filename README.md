@@ -2,7 +2,22 @@
 
 [JAVA 공식 튜토리얼 사이트](https://dev.java/learn/)
 
-## Running Your First Java Application
+## 환경설정
+
+### setting.json
+
+해당 설정을 해줘야 Java Prettier가 동작함.
+
+```json
+"files.associations": {
+  "*.java": "java"
+},
+"[java]": {
+  "editor.defaultFormatter": "redhat.java"
+}
+```
+
+### Running Your First Java Application
 
 - [x] [Getting Started with Java](https://dev.java/learn/getting-started/)  
        Downloading and setting up the JDK, writing your first Java class, and creating your first Java application.
@@ -22,7 +37,7 @@
 - [ ] [Building a Java Application in the Eclipse IDE](https://dev.java/learn/eclipse/)  
        Installing and getting started with the Eclipse IDE for developing Java applications
 
-## Staying Aware of New Features
+### Staying Aware of New Features
 
 - [ ] [Java Platform Evolution](https://dev.java/evolution/)  
        Java has come a long ways since Java 8. Let's go over some of this evolution.
@@ -30,7 +45,7 @@
 - [ ] [Using the Preview Features Available in the JDK](https://dev.java/learn/new-features/using-preview/)  
        How to compile and execute the preview features available in the JDK.
 
-## Getting to Know the Language
+### Getting to Know the Language
 
 - [ ] [Objects, Classes, Interfaces, Packages, and Inheritance](https://dev.java/learn/oop/)  
        Introducing the object oriented programming.
@@ -74,7 +89,7 @@
 - [ ] [Refactoring from the Imperative to the Functional Style](https://dev.java/learn/refactoring-to-functional-style/)  
        Learning to change code from the Imperative to the Functional Style.
 
-## Mastering the API
+### Mastering the API
 
 - [ ] [The Collections Framework](https://dev.java/learn/api/collections-framework/)  
        Getting to know the Collections Framework to store and retrieve data in collections and hashmaps.
@@ -112,7 +127,7 @@
 - [ ] [The Foreign Function and Memory API](https://dev.java/learn/ffm/)  
        The Foreign Function and Memory (FFM) API facilitates Java programs to interoperate with code and data outside the Java runtime without the brittleness and danger of JNI.
 
-## Organizing your Application
+### Organizing your Application
 
 - [ ] [Modules](https://dev.java/learn/modules/)  
        Understand how the module system shapes the JDK and how you can use it to make your code base more maintainable.
@@ -120,7 +135,7 @@
 - [ ] [Creating Runtime and Application Images with JLink](https://dev.java/learn/jlink/)  
        Learn how to use the command line tool jlink to create custom-made runtime images or self-contained application images.
 
-## Getting to know the JVM
+### Getting to know the JVM
 
 - [ ] [The Core JDK Tools](https://dev.java/learn/jvm/tools/core/)  
        Learn about the tools the JDK gives you to compile, run, analyze and monitor your code.
@@ -152,7 +167,7 @@
 - [ ] [Complementary JDK Tools](https://dev.java/learn/jvm/complementary/)  
        Learn how to use complementary JDK tools like jextract.
 
-## Rich Client Applications
+### Rich Client Applications
 
 - [ ] [Download and Setup JavaFX](https://dev.java/learn/javafx/install/)  
        A guide to download and setup a JavaFX runtime on your machine.
@@ -163,7 +178,7 @@
 - [ ] [Introduction to JavaFX animations](https://dev.java/learn/javafx-animations/)  
        Learn to create advanced JavaFX animations
 
-## More Resources
+### More Resources
 
 - [ ] [Getting Started with Java Certification](https://dev.java/learn/java-cert-overview/)  
        Overview of the Java Certification and how to study
