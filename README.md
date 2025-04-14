@@ -22,7 +22,7 @@
 - [x] [Getting Started with Java](https://dev.java/learn/getting-started/)  
        Downloading and setting up the JDK, writing your first Java class, and creating your first Java application.
 
-- [ ] [Launching Single-File Source-Code Programs](https://dev.java/learn/single-file-program/)  
+- [x] [Launching Single-File Source-Code Programs](https://dev.java/learn/single-file-program/)  
        Launching Single-File Source-Code Java programs with the Java launcher.
 
 - [ ] [JShell - The Java Shell Tool](https://dev.java/learn/jshell-tool/)  
