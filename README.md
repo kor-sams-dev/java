@@ -20,19 +20,24 @@
 ### Running Your First Java Application
 
 - [x] [Getting Started with Java](https://dev.java/learn/getting-started/)  
-       Downloading and setting up the JDK, writing your first Java class, and creating your first Java application.
+       Downloading and setting up the JDK, writing your first Java class, and creating your first Java application.  
+       다운로드와 JDK 설정, 첫 번째 Java 클래스 작성 및 첫 번째 Java 애플리케이션 만들기.
 
 - [x] [Launching Single-File Source-Code Programs](https://dev.java/learn/single-file-program/)  
-       Launching Single-File Source-Code Java programs with the Java launcher.
+       Launching Single-File Source-Code Java programs with the Java launcher.  
+       Java 실행기로 단일 파일 소스 코드 Java 프로그램 시작하기.
 
-- [ ] [JShell - The Java Shell Tool](https://dev.java/learn/jshell-tool/)  
-       jshell interactively evaluates declarations, statements, and expressions of the Java programming language in a read-eval-print loop (REPL).
+- [x] [JShell - The Java Shell Tool](https://dev.java/learn/jshell-tool/)  
+       jshell interactively evaluates declarations, statements, and expressions of the Java programming language in a read-eval-print loop (REPL).  
+       jshell은 읽기-평가-인쇄 루프(REPL)에서 Java 프로그래밍 언어의 선언, 문 및 표현식을 대화식으로 평가합니다.
 
 - [ ] [Building a Java application in Visual Studio Code](https://dev.java/learn/vscode-java/)  
-       Oracle Java Platform extension enables you to develop your Maven and Gradle Java project in Visual Studio Code.
+       Oracle Java Platform extension enables you to develop your Maven and Gradle Java project in Visual Studio Code.  
+       Oracle Java Platform 확장 기능을 사용하면 Visual Studio Code에서 Maven 및 Gradle Java 프로젝트를 개발할 수 있습니다.
 
 - [ ] [Building a Java application in IntelliJ IDEA](https://dev.java/learn/intellij-idea/)  
-       Learn how to code, run, test, debug and document a Java application in IntelliJ IDEA.
+       Learn how to code, run, test, debug and document a Java application in IntelliJ IDEA.  
+       IntelliJ IDEA에서 Java 애플리케이션을 코딩, 실행, 테스트, 디버그 및 문서화하는 방법을 알아보세요.
 
 - [ ] [Building a Java Application in the Eclipse IDE](https://dev.java/learn/eclipse/)  
        Installing and getting started with the Eclipse IDE for developing Java applications
